@@ -4,7 +4,7 @@
 
 
 - 🔭  I’m interested in high tech and love high tech devices 
-- 🌱 I’m currently learning everething (Fornt, Back, ProjectManager and etc)🤣
+- 🌱 I’m currently learning everething (Forntend, Backend, PM, blockchain technologies and etc)🤣
 - 💞️  I’m looking to collaborate with other content creators and strong high tech companies, where I can open up and show myself 
 - 👀  I like to control the entire process of the work and monitor the quality of my code  
 - ⚡  Fun facts: I like to swim in swimmingpool, play billiards and play strike ball 
