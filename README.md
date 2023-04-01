@@ -1,6 +1,6 @@
 ### Hi there! I'm Evgeniy 👋 
 
-### I'm a Husband, Future Father and FrontEnd developer!
+### I'm a Husband, Father and FrontEnd developer!
 
 
 - 🔭  I’m interested in high tech and love high tech devices;
