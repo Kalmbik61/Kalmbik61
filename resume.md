@@ -13,7 +13,7 @@
 - **React**
 - **Redux / Redux-toolkit**
 - **Git**
-- ***Astro**
+- **Astro**
 - **Vite**
 - **Rollup**
 
