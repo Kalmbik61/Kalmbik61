@@ -13,6 +13,9 @@
 - **React**
 - **Redux / Redux-toolkit**
 - **Git**
+- ***Astro**
+- **Vite**
+- **Rollup**
 
 ## Стэк
 
